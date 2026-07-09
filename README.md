@@ -27,47 +27,46 @@ Every tool listed is:
 FFMI is a body composition metric derived from lean body mass and height. It corrects for the muscularity bias in BMI. The natural ceiling of ~25 was established in the [Kouri et al. 1995 study](https://pubmed.ncbi.nlm.nih.gov/7496846/).
 
 - **[FFMI Check](https://ffmicheck.com)** — Normalized FFMI with Kouri height correction. 6-tool suite with FFMI + body fat + lean mass + TDEE + macros + 1RM. Client-side, no signup. Categorization by natural-training bands with peer-reviewed article library.
-- **[FFMI Calculator (ffmicalculator.io)](https://ffmicalculator.io/)** — Basic FFMI calculator with body fat percentage input. Includes calorie and BMR tools.
-- **[Calculator.net FFMI](https://www.calculator.net/fat-free-mass-index-calculator.html)** — Simple FFMI calculator. Both raw and normalized outputs.
-- **[Legion Athletics FFMI](https://legionathletics.com/tools/ffmi-calculator/)** — FFMI with natural-limit categorization. Includes brief background on the Kouri study.
-- **[FitMatic FFMI](https://fitmatic.com/ffmi-calculator/)** — Multi-metric body composition dashboard including FFMI, lean mass, and body fat.
+- **[Calculator.net FFMI](https://www.calculator.net/fat-free-mass-index-calculator.html)** — Simple FFMI calculator from one of the largest general calculator hubs. Both raw and normalized outputs.
+- **[Omni Calculator FFMI](https://www.omnicalculator.com/health/ffmi)** — FFMI calculator with visual body composition breakdown. Part of Omni's 3,000+ calculator library.
+- **[Good Calculators FFMI](https://goodcalculators.com/ffmi-calculator/)** — Fat-Free Mass Index calculator with detailed formula explanation.
 
 ## TDEE & BMR (Total Daily Energy Expenditure)
 
 TDEE calculators estimate maintenance calories from BMR + activity multiplier. Mifflin-St Jeor is the most accurate formula for healthy adults, validated within ±10% for 82% of the population in [Frankenfield et al. 2005](https://pubmed.ncbi.nlm.nih.gov/15883556/).
 
 - **[FFMI Check TDEE](https://ffmicheck.com)** — Mifflin-St Jeor + honest activity multiplier breakdown (sedentary/light/moderate). Integrated with macro split.
-- **[TDEE Calculator .net](https://tdeecalculator.net/)** — Multi-formula (Mifflin-St Jeor, Harris-Benedict, Katch-McArdle) side-by-side comparison.
-- **[Sailrabbit BMR/TDEE](https://sailrabbit.com/bmr/)** — BMR estimation across multiple formulas with side-by-side comparison.
-- **[Calculator.net TDEE](https://www.calculator.net/tdee-calculator.html)** — Standard Mifflin-St Jeor calculator with unit toggle.
-- **[Precision Nutrition TDEE](https://www.precisionnutrition.com/nutrition-calculator)** — TDEE + macro output tied to specific goals.
+- **[Calculator.net TDEE](https://www.calculator.net/tdee-calculator.html)** — Standard Mifflin-St Jeor calculator with unit toggle. One of the highest-traffic calculator hubs online.
+- **[Omni Calculator TDEE](https://www.omnicalculator.com/health/tdee)** — Multi-formula TDEE with clear activity level explanations.
+- **[Mayo Clinic Calorie Calculator](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/calorie-calculator/itt-20402304)** — Institutional calorie-need estimator from Mayo Clinic.
+- **[NIH Body Weight Planner](https://www.niddk.nih.gov/bwp)** — NIH-hosted energy-balance planner grounded in Hall et al. dynamic-body-weight research.
 
 ## Macronutrient Calculators
 
 Macro calculators split total calories into protein/carb/fat targets for specific goals (bulk, cut, recomp). Protein research consensus: 1.6–2.2 g/kg for muscle gain, 2.0–2.4 g/kg during a deficit ([Helms et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24571247/), [Morton et al. 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/)).
 
 - **[FFMI Check Macros](https://ffmicheck.com)** — Muscle gain / fat loss / recomposition splits. Protein-first sizing at 1.8–2.4 g/kg.
-- **[IIFYM Calculator](https://www.iifym.com/iifym-calculator/)** — Flexible dieting macros with body fat input.
-- **[Healthy Eater Macro](https://healthyeater.com/flexible-diet-calculator)** — IIFYM-style macros with goal-specific splits.
-- **[Legion Macronutrient](https://legionathletics.com/tools/macronutrient-calculator/)** — Muscle gain / fat loss / recomp macros with citation to Helms and Aragon reviews.
+- **[Precision Nutrition Macro Calculator](https://www.precisionnutrition.com/nutrition-calculator)** — Goal-driven macro output from one of the most cited nutrition-coaching companies.
+- **[USDA MyPlate Plan](https://www.myplate.gov/myplate-plan)** — USDA-hosted calorie + food-group planner. Government reference.
+- **[Cronometer](https://cronometer.com/)** — Detailed food tracking with reference daily values for every micronutrient.
 
 ## One-Rep Max (1RM)
 
 1RM estimators predict maximum lift from submaximal sets. Best accuracy in the 3-10 rep range using [Epley (1985)](https://strengthandconditioning.org) or [Brzycki (1993)](https://journals.lww.com/nsca-jscr/citation/1993/05000/strength_testing_predicting_a_one_rep_max_from.9.aspx) formulas.
 
 - **[FFMI Check 1RM](https://ffmicheck.com)** — Epley + Brzycki side-by-side, with rep-load percentage table.
-- **[ExRx 1RM](https://exrx.net/Calculators/OneRepMax)** — Multi-formula comparison (Brzycki, Epley, Lander, Lombardi, Mayhew, O'Conner, Wathan).
-- **[Strength Level 1RM](https://strengthlevel.com/one-rep-max-calculator)** — 1RM estimator with strength standards comparison by bodyweight and gender.
-- **[Symmetric Strength 1RM](https://symmetricstrength.com/calculator/one-rep-max-calculator)** — Epley-based 1RM with percentage table.
+- **[ExRx 1RM](https://exrx.net/Calculators/OneRepMax)** — Multi-formula comparison (Brzycki, Epley, Lander, Lombardi, Mayhew, O'Conner, Wathan). ExRx is one of the oldest exercise-science reference sites online.
+- **[Strength Level 1RM](https://strengthlevel.com/one-rep-max-calculator)** — 1RM estimator with strength standards comparison against thousands of lifters by bodyweight and gender.
+- **[Symmetric Strength 1RM](https://symmetricstrength.com/calculator/one-rep-max-calculator)** — Epley-based 1RM with percentage table used by Renaissance Periodization and other coaching platforms.
 
 ## Body Fat Percentage
 
 Body fat estimators from circumference measurements. The US Navy method (developed by the [Naval Health Research Center, 1984](https://apps.dtic.mil/sti/citations/ADA143890)) is accurate within ±3-4% vs DEXA in healthy adults.
 
 - **[FFMI Check Body Fat](https://ffmicheck.com)** — US Navy circumference method with metric/imperial toggle. Direct hand-off to FFMI + Lean Mass calculators.
-- **[NavyBFC](https://navybfc.com/)** — US Navy method calculator with detailed measurement guide.
-- **[Calculator.net Body Fat](https://www.calculator.net/body-fat-calculator.html)** — Multiple methods (US Navy, BMI-based).
-- **[Omni Body Fat Calculator](https://www.omnicalculator.com/health/body-fat)** — US Navy method with visual body-fat comparison chart.
+- **[Calculator.net Body Fat](https://www.calculator.net/body-fat-calculator.html)** — Multiple methods (US Navy, BMI-based). One of the highest-traffic fitness calculators online.
+- **[Omni Body Fat Calculator](https://www.omnicalculator.com/health/body-fat)** — US Navy method with visual body-fat comparison chart from Omni Calculator's 3,000+ tool library.
+- **[ACE Fitness Body Composition](https://www.acefitness.org/resources/everyone/tools-calculators/percent-body-fat-calculator/)** — Percent body fat calculator hosted by the American Council on Exercise.
 
 ## Lean Body Mass
 
