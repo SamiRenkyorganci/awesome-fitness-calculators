@@ -35,6 +35,7 @@ FFMI is a body composition metric derived from lean body mass and height. It cor
 
 TDEE calculators estimate maintenance calories from BMR + activity multiplier. Mifflin-St Jeor is the most accurate formula for healthy adults, validated within ±10% for 82% of the population in [Frankenfield et al. 2005](https://pubmed.ncbi.nlm.nih.gov/15883556/).
 
+- **[Ampsu TDEE Calculator](https://ampsu.eu/tools/tdee-calculator)** — Compares activity levels using Mifflin-St Jeor, with the [original 1990 study](https://pubmed.ncbi.nlm.nih.gov/2305711/) cited on the page.
 - **[FFMI Check TDEE](https://ffmicheck.com)** — Mifflin-St Jeor + honest activity multiplier breakdown (sedentary/light/moderate). Integrated with macro split.
 - **[Calculator.net TDEE](https://www.calculator.net/tdee-calculator.html)** — Standard Mifflin-St Jeor calculator with unit toggle. One of the highest-traffic calculator hubs online.
 - **[Omni Calculator TDEE](https://www.omnicalculator.com/health/tdee)** — Multi-formula TDEE with clear activity level explanations.
@@ -45,6 +46,7 @@ TDEE calculators estimate maintenance calories from BMR + activity multiplier. M
 
 Macro calculators split total calories into protein/carb/fat targets for specific goals (bulk, cut, recomp). Protein research consensus: 1.6–2.2 g/kg for muscle gain, 2.0–2.4 g/kg during a deficit ([Helms et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24571247/), [Morton et al. 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/)).
 
+- **[Ampsu Macro Calculator](https://ampsu.eu/tools/macro-calculator)** — Sets protein and fat from body weight, then calculates remaining carbs; cites [EFSA's 2012 protein reference](https://doi.org/10.2903/j.efsa.2012.2557).
 - **[FFMI Check Macros](https://ffmicheck.com)** — Muscle gain / fat loss / recomposition splits. Protein-first sizing at 1.8–2.4 g/kg.
 - **[Precision Nutrition Macro Calculator](https://www.precisionnutrition.com/nutrition-calculator)** — Goal-driven macro output from one of the most cited nutrition-coaching companies.
 - **[USDA MyPlate Plan](https://www.myplate.gov/myplate-plan)** — USDA-hosted calorie + food-group planner. Government reference.
@@ -86,6 +88,7 @@ Reference calculators for baseline weight comparison. BMI is a poor metric for m
 
 ## Protein & Nutrition
 
+- **[Ampsu Protein Calculator](https://ampsu.eu/tools/protein-calculator)** — Compares daily protein targets for adults and people who train, citing the [EFSA 2012 reference](https://doi.org/10.2903/j.efsa.2012.2557).
 - **[Examine.com Protein Calculator](https://examine.com/nutrition/protein-intake-calculator/)** — Protein needs by goal, citing research consensus ranges.
 - **[Cronometer](https://cronometer.com/)** — Full-macronutrient food tracking with reference daily values.
 
